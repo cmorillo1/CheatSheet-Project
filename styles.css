@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.tags {
+    border: 1px solid;
+}
+
+tr{
+    display: table-row;
+    border-color: inherit;
+    vertical-align: inherit;
+}
